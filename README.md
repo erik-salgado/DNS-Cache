@@ -23,3 +23,5 @@
 
 - If you type "ipconfig/ displaydns" it will show the latest record there is
 ![Screenshot 2024-07-09 203244](https://github.com/user-attachments/assets/af72fd97-4484-4053-9fc3-0f83a14bde15)
+
+This brings us the conclusion for this exercise. Thank you for watching! :)
